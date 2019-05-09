@@ -1,4 +1,4 @@
 # A-Second-Poem
-Running through a different tutorial
-
-May 2019
+Roses are red, 
+Violets are blue.
+I love Specter...
